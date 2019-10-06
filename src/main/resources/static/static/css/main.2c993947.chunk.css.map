@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,YACF,CAEA,WACE,qBACF","file":"main.2c993947.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  padding: 20px;\n}\n\n.debit-row {\n  background-color: grey;\n}"]}
